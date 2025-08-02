@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikita!</h1>
-<p align="left"> <a href="https://twitter.com/a" target="blank"><img src="https://img.shields.io/twitter/follow/a?logo=twitter&style=for-the-badge" alt="a" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrainsMono&pause=1000&color=8D90F7&width=435&lines=Hi%2C+im+Nikita!;Im+Software+Engineer!)](https://git.io/typing-svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
