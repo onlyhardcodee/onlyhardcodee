@@ -1,4 +1,4 @@
-<a href="https://ibb.co/LhS7RwR4"><img src="https://i.ibb.co/h1sz959p/Group-238.png" alt="Group-238" border="0"></a>
+<a href="https://ibb.co/LhS7RwR4"><img src="https://i.ibb.co/LhS7RwR4/Group-238.png" alt="Group-238" border="0"></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
