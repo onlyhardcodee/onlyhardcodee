@@ -4,7 +4,7 @@
 
 <h3 align="left">Languages</h3>
 <div>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,rust,clojure" height="60" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,rust,clojure,python" height="60" />
 </div>
 
 <h3 align="left">Tools</h3>
